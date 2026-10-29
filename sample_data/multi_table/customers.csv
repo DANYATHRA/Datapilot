@@ -1,0 +1,11 @@
+customer_id,customer_name,country,segment
+CUST-001,Acme Corporation,United States,Enterprise
+CUST-002,Global Tech Industries,United Kingdom,Enterprise
+CUST-003,Starlight Media,Germany,Mid-Market
+CUST-004,Apex Logistics,Canada,Mid-Market
+CUST-005,Beacon Solutions,Australia,Small Business
+CUST-006,Nova Financial,France,Enterprise
+CUST-007,Horizon Retail,Netherlands,Small Business
+CUST-008,Pioneer Health,United States,Enterprise
+CUST-009,Vanguard Education,United Kingdom,Mid-Market
+CUST-010,Zenith Systems,Singapore,Small Business

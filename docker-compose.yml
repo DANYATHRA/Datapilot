@@ -1,0 +1,21 @@
+# Optional: local MongoDB + API. Frontend: `cd frontend && npm run dev`.
+# For production use MongoDB Atlas: put its connection string in MONGO_URI instead.
+services:
+  mongo:
+    image: mongo:7
+    ports: ["27017:27017"]
+    volumes: ["mongo_data:/data/db"]
+  api:
+    build: ./backend
+    environment:
+      MONGO_URI: mongodb://mongo:27017
+      JWT_SECRET: ${JWT_SECRET:-change-me-to-a-long-random-string}
+      ANTHROPIC_API_KEY: ${ANTHROPIC_API_KEY:-}
+      DATA_DIR: /data
+      CORS_ORIGINS: http://localhost:5173
+    volumes: ["api_data:/data"]
+    ports: ["8000:8000"]
+    depends_on: [mongo]
+volumes:
+  mongo_data:
+  api_data:

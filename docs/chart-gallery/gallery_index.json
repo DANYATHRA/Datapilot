@@ -1,0 +1,408 @@
+[
+  {
+    "id": "kpi_card",
+    "paths": [
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\01_kpi_card_small_360x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\01_kpi_card_medium_640x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\01_kpi_card_large_1000x360.png"
+    ],
+    "meta": {
+      "title": "",
+      "summary": "Kpi Card: \u20b912.8L.",
+      "warnings": [],
+      "excluded_count": 0,
+      "caption": "",
+      "currency": "INR"
+    }
+  },
+  {
+    "id": "sparkline_kpi",
+    "paths": [
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\02_sparkline_kpi_small_360x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\02_sparkline_kpi_medium_640x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\02_sparkline_kpi_large_1000x360.png"
+    ],
+    "meta": {
+      "title": "",
+      "summary": "Sparkline Kpi: \u20b91.4L.",
+      "warnings": [],
+      "excluded_count": 0,
+      "caption": "",
+      "currency": "INR"
+    }
+  },
+  {
+    "id": "gauge",
+    "paths": [
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\03_gauge_small_360x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\03_gauge_medium_640x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\03_gauge_large_1000x360.png"
+    ],
+    "meta": {
+      "title": "",
+      "summary": "Gauge: 84.5.",
+      "warnings": [],
+      "excluded_count": 0,
+      "caption": "",
+      "currency": null
+    }
+  },
+  {
+    "id": "bullet",
+    "paths": [
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\04_bullet_small_360x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\04_bullet_medium_640x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\04_bullet_large_1000x360.png"
+    ],
+    "meta": {
+      "title": "",
+      "summary": "Bullet: \u20b978.0L.",
+      "warnings": [],
+      "excluded_count": 0,
+      "caption": "",
+      "currency": "INR"
+    }
+  },
+  {
+    "id": "column",
+    "paths": [
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\05_column_small_360x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\05_column_medium_640x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\05_column_large_1000x360.png"
+    ],
+    "meta": {
+      "title": "",
+      "summary": "Column of revenue by region. Total: \u20b912.8L across 4 categories. Highest: North with \u20b95.6L (43.6% of total).",
+      "warnings": [],
+      "excluded_count": 0,
+      "caption": "",
+      "currency": "INR"
+    }
+  },
+  {
+    "id": "bar",
+    "paths": [
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\06_bar_small_360x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\06_bar_medium_640x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\06_bar_large_1000x360.png"
+    ],
+    "meta": {
+      "title": "",
+      "summary": "Bar of revenue by product. Total: \u20b912.8L across 4 categories. Highest: Phones with \u20b94.3L (33.4% of total).",
+      "warnings": [],
+      "excluded_count": 0,
+      "caption": "",
+      "currency": "INR"
+    }
+  },
+  {
+    "id": "stacked_column",
+    "paths": [
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\07_stacked_column_small_360x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\07_stacked_column_medium_640x400.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\07_stacked_column_large_1000x400.png"
+    ],
+    "meta": {
+      "title": "",
+      "summary": "Stacked Column of revenue by region. Total: \u20b912.8L across 16 categories. Highest: North with \u20b92.0L (15.3% of total).",
+      "warnings": [],
+      "excluded_count": 0,
+      "caption": "",
+      "currency": "INR"
+    }
+  },
+  {
+    "id": "stacked_bar",
+    "paths": [
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\08_stacked_bar_small_360x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\08_stacked_bar_medium_640x400.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\08_stacked_bar_large_1000x400.png"
+    ],
+    "meta": {
+      "title": "",
+      "summary": "Stacked Bar of revenue by product. Total: \u20b912.8L across 16 categories. Highest: Laptops with \u20b92.0L (15.3% of total).",
+      "warnings": [],
+      "excluded_count": 0,
+      "caption": "",
+      "currency": "INR"
+    }
+  },
+  {
+    "id": "combo",
+    "paths": [
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\09_combo_small_360x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\09_combo_medium_640x400.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\09_combo_large_1000x400.png"
+    ],
+    "meta": {
+      "title": "",
+      "summary": "Combo of revenue by period. Total: \u20b912.8L across 12 categories. Highest: 2025-08-31 00:00:00 with \u20b91.7L (12.9% of total).",
+      "warnings": [
+        "Multi-series visual had 11 legend entries. Collapsed to top 5 + 'Other' to avoid legend sprawl."
+      ],
+      "excluded_count": 0,
+      "caption": "",
+      "currency": "INR"
+    }
+  },
+  {
+    "id": "line",
+    "paths": [
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\10_line_small_360x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\10_line_medium_640x400.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\10_line_large_1000x400.png"
+    ],
+    "meta": {
+      "title": "",
+      "summary": "Line of revenue by order_date. Total: \u20b912.8L across 50 categories. Highest: 2025-08-17 00:00:00 with \u20b953.7K (4.2% of total).",
+      "warnings": [],
+      "excluded_count": 0,
+      "caption": "",
+      "currency": "INR"
+    }
+  },
+  {
+    "id": "area",
+    "paths": [
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\11_area_small_360x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\11_area_medium_640x400.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\11_area_large_1000x400.png"
+    ],
+    "meta": {
+      "title": "",
+      "summary": "Area of revenue by order_date. Total: \u20b912.8L across 12 categories. Highest: 2025-08-31 00:00:00 with \u20b91.7L (12.9% of total).",
+      "warnings": [],
+      "excluded_count": 0,
+      "caption": "",
+      "currency": "INR"
+    }
+  },
+  {
+    "id": "pie",
+    "paths": [
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\12_pie_small_360x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\12_pie_medium_640x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\12_pie_large_1000x360.png"
+    ],
+    "meta": {
+      "title": "",
+      "summary": "Pie of revenue by region. Total: \u20b912.8L across 4 categories. Highest: North with \u20b95.6L (43.6% of total).",
+      "warnings": [],
+      "excluded_count": 0,
+      "caption": "",
+      "currency": "INR"
+    }
+  },
+  {
+    "id": "donut",
+    "paths": [
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\13_donut_small_360x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\13_donut_medium_640x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\13_donut_large_1000x360.png"
+    ],
+    "meta": {
+      "title": "",
+      "summary": "Donut of revenue by region. Total: \u20b912.8L across 4 categories. Highest: North with \u20b95.6L (43.6% of total).",
+      "warnings": [],
+      "excluded_count": 0,
+      "caption": "",
+      "currency": "INR"
+    }
+  },
+  {
+    "id": "treemap",
+    "paths": [
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\14_treemap_small_360x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\14_treemap_medium_640x400.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\14_treemap_large_1000x400.png"
+    ],
+    "meta": {
+      "title": "",
+      "summary": "Treemap of revenue by product. Total: \u20b912.8L across 16 categories. Highest: Laptops with \u20b92.0L (15.3% of total).",
+      "warnings": [],
+      "excluded_count": 0,
+      "caption": "",
+      "currency": "INR"
+    }
+  },
+  {
+    "id": "funnel",
+    "paths": [
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\15_funnel_small_360x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\15_funnel_medium_640x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\15_funnel_large_1000x360.png"
+    ],
+    "meta": {
+      "title": "",
+      "summary": "Funnel of count by stage. Total: 3.2K across 5 categories. Highest: Leads Captured with 1.4K (44.0% of total).",
+      "warnings": [],
+      "excluded_count": 0,
+      "caption": "",
+      "currency": null
+    }
+  },
+  {
+    "id": "scatter",
+    "paths": [
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\16_scatter_small_360x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\16_scatter_medium_640x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\16_scatter_large_1000x360.png"
+    ],
+    "meta": {
+      "title": "",
+      "summary": "Scatter of revenue by units. Total: \u20b912.8L across 300 categories. Highest: 14.0 with \u20b916.8K (1.3% of total).",
+      "warnings": [],
+      "excluded_count": 0,
+      "caption": "",
+      "currency": "INR"
+    }
+  },
+  {
+    "id": "bubble",
+    "paths": [
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\17_bubble_small_360x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\17_bubble_medium_640x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\17_bubble_large_1000x360.png"
+    ],
+    "meta": {
+      "title": "",
+      "summary": "Bubble of revenue by units. Total: \u20b912.8L across 4 categories. Highest: 745.0 with \u20b94.3L (33.4% of total).",
+      "warnings": [],
+      "excluded_count": 0,
+      "caption": "",
+      "currency": "INR"
+    }
+  },
+  {
+    "id": "heatmap",
+    "paths": [
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\18_heatmap_small_360x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\18_heatmap_medium_640x400.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\18_heatmap_large_1000x400.png"
+    ],
+    "meta": {
+      "title": "",
+      "summary": "Heatmap of Laptops by region. Total: \u20b94.2L across 4 categories. Highest: North with \u20b92.0L (47.2% of total).",
+      "warnings": [],
+      "excluded_count": 0,
+      "caption": "",
+      "currency": "INR"
+    }
+  },
+  {
+    "id": "histogram",
+    "paths": [
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\19_histogram_small_360x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\19_histogram_medium_640x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\19_histogram_large_1000x360.png"
+    ],
+    "meta": {
+      "title": "",
+      "summary": "Histogram of revenue by revenue. Total: \u20b912.8L across 300 categories. Highest: 16800.0 with \u20b916.8K (1.3% of total).",
+      "warnings": [],
+      "excluded_count": 0,
+      "caption": "",
+      "currency": "INR"
+    }
+  },
+  {
+    "id": "box",
+    "paths": [
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\20_box_small_360x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\20_box_medium_640x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\20_box_large_1000x360.png"
+    ],
+    "meta": {
+      "title": "",
+      "summary": "Box of revenue by region. Total: \u20b912.8L across 300 categories. Highest: North with \u20b916.8K (1.3% of total).",
+      "warnings": [],
+      "excluded_count": 0,
+      "caption": "",
+      "currency": "INR"
+    }
+  },
+  {
+    "id": "table",
+    "paths": [
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\21_table_small_360x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\21_table_medium_640x400.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\21_table_large_1000x400.png"
+    ],
+    "meta": {
+      "title": "",
+      "summary": "Table of product across 12 categories in region.",
+      "warnings": [],
+      "excluded_count": 0,
+      "caption": "",
+      "currency": "INR"
+    }
+  },
+  {
+    "id": "pivot",
+    "paths": [
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\22_pivot_small_360x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\22_pivot_medium_640x400.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\22_pivot_large_1000x400.png"
+    ],
+    "meta": {
+      "title": "",
+      "summary": "Pivot of Laptops by region. Total: 830 across 4 categories. Highest: North with 377 (45.4% of total).",
+      "warnings": [],
+      "excluded_count": 0,
+      "caption": "",
+      "currency": null
+    }
+  },
+  {
+    "id": "likert_stack",
+    "paths": [
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\23_likert_stack_small_360x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\23_likert_stack_medium_640x400.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\23_likert_stack_large_1000x400.png"
+    ],
+    "meta": {
+      "title": "",
+      "summary": "Likert Stack of responses by region. Total: 300 across 20 categories. Highest: North with 30 (10.0% of total).",
+      "warnings": [],
+      "excluded_count": 0,
+      "caption": "",
+      "currency": null
+    }
+  },
+  {
+    "id": "stress_200_categories",
+    "paths": [
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\stress_200_categories_small_360x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\stress_200_categories_medium_640x400.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\stress_200_categories_large_1000x400.png"
+    ],
+    "meta": {
+      "title": "",
+      "summary": "Bar of sales by sku. Total: \u20b996.5L across 11 categories. Highest: Other with \u20b979.1L (82.0% of total).",
+      "warnings": [
+        "Category 'sku' has 200 items. Displaying top 10 + 'Other' to avoid crowded axis."
+      ],
+      "excluded_count": 0,
+      "caption": "",
+      "currency": "INR"
+    }
+  },
+  {
+    "id": "stress_5000_timepoints",
+    "paths": [
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\stress_5000_timepoints_small_360x320.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\stress_5000_timepoints_medium_640x400.png",
+      "C:\\Users\\DANYATHRA S\\Desktop\\Datapilot\\docs\\chart-gallery\\stress_5000_timepoints_large_1000x400.png"
+    ],
+    "meta": {
+      "title": "",
+      "summary": "Line of load by timestamp. Total: 6.3M across 31 categories. Highest: 2020-07-12 00:00:00 with 252.1K (4.0% of total).",
+      "warnings": [
+        "Auto-aggregated dense time-series from 5000 to 31 points (weekly grain) to maintain clean readability."
+      ],
+      "excluded_count": 0,
+      "caption": "",
+      "currency": null
+    }
+  }
+]

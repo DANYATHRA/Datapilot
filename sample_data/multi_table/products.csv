@@ -1,0 +1,9 @@
+product_id,product_name,category,unit_cost,unit_price
+PROD-101,Analytics Pro Suite,Software,45.0,120.0
+PROD-102,Cloud Data Connector,software,25.0,75.0
+PROD-103,Enterprise Server Pod,Hardware,350.0,850.0
+PROD-104,Edge Gateway Device,Hardware,180.0,420.0
+PROD-105,BI Integration Pack,Services,120.0,300.0
+PROD-106,Audit Consulting Hours,Services,-20.0,250.0
+PROD-107,Custom AI Model Engine,  Software  ,3200.0,15000.0
+PROD-108,Predictive Pipeline Add-on,Software,80.0,210.0

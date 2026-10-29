@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+**/node_modules/
+venv/
+.venv/
+env/
+
+# Build outputs
+dist/
+**/dist/
+build/
+*.egg-info/
+
+# Python cache & test artifacts
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+**/.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment and secrets
+.env
+.env.local
+.env.*.local
+
+# Data storage & logs
+backend/data/
+data/
+*.log
+
+# Generated test downloads (keep sample fixtures)
+sample_data/downloads/*.xlsx
+sample_data/downloads/*.csv
+sample_data/downloads/*.pdf
+
+# OS generated files
+.DS_Store
+Thumbs.db

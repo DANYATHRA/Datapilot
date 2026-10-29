@@ -1,0 +1,140 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Brand: Enterprise Deep Teal (#0B7A75 family) */
+    --primary: 177 83% 26%; /* #0B7A75 */
+    --primary-foreground: 0 0% 100%;
+    --primary-hover: 177 85% 21%; /* #085854 */
+
+    /* Neutrals: Refined Slate/Zinc */
+    --background: 210 20% 98%; /* #f8fafc */
+    --foreground: 222 47% 11%; /* #0f172a (15.5:1 contrast on white) */
+
+    --card: 0 0% 100%; /* #ffffff */
+    --card-foreground: 222 47% 11%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 222 47% 11%;
+
+    --muted: 215 16% 47%; /* #64748b */
+    --muted-foreground: 215 19% 35%; /* #475569 (7:1 contrast) */
+
+    --secondary: 210 40% 96.1%; /* #f1f5f9 */
+    --secondary-foreground: 222 47% 11%;
+
+    --accent: 177 42% 93%; /* #e2f4f3 - soft brand teal tint */
+    --accent-foreground: 177 83% 22%; /* #095e5a */
+
+    --border: 214 32% 91%; /* #e2e8f0 */
+    --input: 214 32% 88%; /* #cbd5e1 */
+    --ring: 177 83% 26%;
+
+    /* Semantic Status Tokens (>= 4.5:1 contrast against bg/card) */
+    --success: 158 64% 36%; /* #10b981 / #059669 */
+    --success-foreground: 0 0% 100%;
+
+    --warning: 38 92% 44%; /* #d97706 */
+    --warning-foreground: 0 0% 100%;
+
+    --destructive: 0 84% 48%; /* #dc2626 */
+    --destructive-foreground: 0 0% 100%;
+
+    --info: 177 83% 26%; /* aligned to brand teal */
+    --info-foreground: 0 0% 100%;
+
+    --radius: 8px;
+  }
+
+  .dark {
+    /* Brand in Dark Mode (Teal family) */
+    --primary: 177 68% 44%; /* #24b8b1 */
+    --primary-foreground: 0 0% 100%;
+    --primary-hover: 177 70% 50%;
+
+    /* Dark Neutrals (Zinc/Slate Deep Tint) */
+    --background: 224 71% 4%; /* #0b0f17 */
+    --foreground: 210 40% 98%; /* #f8fafc */
+
+    --card: 222 47% 8%; /* #111827 */
+    --card-foreground: 210 40% 98%;
+
+    --popover: 222 47% 8%;
+    --popover-foreground: 210 40% 98%;
+
+    --muted: 217 19% 27%; /* #334155 */
+    --muted-foreground: 215 20% 65%; /* #94a3b8 */
+
+    --secondary: 217 33% 14%; /* #1e293b */
+    --secondary-foreground: 210 40% 98%;
+
+    --accent: 177 60% 12%; /* soft dark teal tint */
+    --accent-foreground: 177 65% 70%;
+
+    --border: 217 33% 18%; /* #243044 */
+    --input: 217 33% 22%;
+    --ring: 177 68% 44%;
+
+    /* Dark Semantic Status Tokens */
+    --success: 158 64% 45%;
+    --success-foreground: 222 47% 11%;
+
+    --warning: 38 92% 50%;
+    --warning-foreground: 222 47% 11%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+
+    --info: 177 68% 44%;
+    --info-foreground: 0 0% 100%;
+  }
+
+  * {
+    @apply border-border;
+    box-sizing: border-box;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans;
+    font-feature-settings: "rlig" 1, "calt" 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* Strict numbers requirement: tabular numbers across the application */
+  .tabular-nums,
+  td.numeric,
+  th.numeric,
+  .metric-value,
+  .kpi-number,
+  code,
+  pre,
+  .font-mono {
+    font-variant-numeric: tabular-nums;
+    font-family: inherit;
+  }
+
+  /* Focus ring utility */
+  :focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 2px hsl(var(--background)), 0 0 0 4px hsl(var(--ring));
+  }
+}
+
+/* Custom scrollbars for enterprise feel */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: hsl(var(--muted) / 0.3);
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: hsl(var(--muted) / 0.5);
+}
